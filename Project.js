@@ -43,7 +43,4 @@ function fetchdata(){
 }
 
 fetchdata()
-
 btnid.addEventListener("click",fetchdata)
-
-console.log("Hello")
