@@ -46,3 +46,4 @@ fetchdata()
 
 btnid.addEventListener("click",fetchdata)
 
+console.log("Hello")
